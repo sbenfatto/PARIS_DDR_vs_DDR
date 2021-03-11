@@ -9,7 +9,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Shiny App to visualize cancer vulnerabilities predicted by PAn-canceR Inferred Synthetic lethalities (PARIS) among DNA Damage Repair genes.
+Shiny App to visualize cancer vulnerabilities predicted by PARIS among DNA Damage Repair genes.
 
 ## Installation
 
