@@ -20,7 +20,7 @@ Shiny App to visualize cancer vulnerabilities predicted by PARIS among DNA Damag
 
 ## Installation
 
-To run the shiny app locally in R, clone or download this repository and install the required R pacakges as follows:
+To run the shiny app locally in R, clone or download this repository and install the required R packages as follows:
 
 ```r
 install.packages("RColorBrewer")
